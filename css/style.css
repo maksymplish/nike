@@ -83,7 +83,7 @@ textarea {
 }
 
 .ba-section {
-  background-image: url(/[10]/nike/img/main.jpg);
+  background-image: url(../img/main.jpg);
   background-size: cover;
   padding: 150px 0 178px;
 
